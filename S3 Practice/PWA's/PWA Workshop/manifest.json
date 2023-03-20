@@ -1,0 +1,22 @@
+{
+    "name": "Balloon Magic",
+    "short_name": "Balloon",
+    "description": "Balloon travel agency",
+    "start_url": "/index.html",
+    "background_color": "#3367D6",
+    "theme_color": "#3367D6",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/icons/icon.png",
+            "type": "/image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icons/icongreen.png",
+            "type": "/image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
