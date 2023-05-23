@@ -13,5 +13,5 @@ Project waar ik een webapp ga maken voor een bakkersbedrijf. Het bedrijf heeft n
 - API opstellen en informatie uitlezen/ophalen
 - Simpele en effectieve huisstijl creeëren
 - website/webapp responsive maken
-- ### React tutorial / skiprouter
-- Door het volgen van meerdere tutorials heb ik een kleine react webapp samengesteld om de methodiek van react onder de knie te krijgen. De volgende stap is om deze theorie toe te passen toe te passen in mijn eigen react applicatie. 
+### React tutorial / skiprouter
+Door het volgen van meerdere tutorials heb ik een kleine react webapp samengesteld om de methodiek van react onder de knie te krijgen. De volgende stap is om deze theorie toe te passen toe te passen in mijn eigen react applicatie. 
