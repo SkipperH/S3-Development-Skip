@@ -8,10 +8,10 @@ Bestanden zijn onderverdeeld in verschillende mappen met de bijbehorende benamin
 ### S3 Practice
 Kleine POC's waar ik aan de slag ga met verschillende onderdelen zoals API's en PWA's. Dit zijn geen compleet uitgewerkte producten, meer kleine projecten waar ik mezelf de ruimte geef om verschillende onderdelen te experimenteren. 
 ### Challange #1
-Project waar ik een webapp ga maken voor een bakkersbedrijf. Het bedrijf heeft nog geen vaste huisstijl en website. Het is aan mij om voor deze klant een website/webapp te maken samen met een huisstijl. Taken die bij dit project komen kijken zijn:
+Project waar ik een webapp heb gemaakt voor een fictioneel bakkersbedrijf. Het bedrijf heeft nog geen vaste huisstijl en website. Het is aan mij om voor deze klant een website/webapp te maken samen met een huisstijl. Taken die bij dit project komen kijken zijn:
 - PWA opstellen
 - API opstellen en informatie uitlezen/ophalen
 - Simpele en effectieve huisstijl creeëren
-- website/webapp responsive maken
+- website/webapp responsive maken (425px Mobile Large)
 ### React tutorial / skiprouter
 Door het volgen van meerdere tutorials heb ik een kleine react webapp samengesteld om de methodiek van react onder de knie te krijgen. De volgende stap is om deze theorie toe te passen toe te passen in mijn eigen react applicatie. 
