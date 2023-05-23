@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skiprouter/static/css/main.62ff7c03.css",
+    "main.js": "/skiprouter/static/js/main.d8c28bc0.js",
+    "index.html": "/skiprouter/index.html",
+    "main.62ff7c03.css.map": "/skiprouter/static/css/main.62ff7c03.css.map",
+    "main.d8c28bc0.js.map": "/skiprouter/static/js/main.d8c28bc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62ff7c03.css",
+    "static/js/main.d8c28bc0.js"
+  ]
+}
