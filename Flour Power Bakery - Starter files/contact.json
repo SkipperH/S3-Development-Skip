@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Christof van Meer",
+        "phonenumber": "06-56456245",
+        "email": "christofvmeer.info@gmail.com",
+        "address": {
+            "street": "Kulas Light",
+            "city": "Gwenborough",
+            "zipcode": "92998-3874"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Karla van der Pol",
+        "phonenumber": "06-71748423",
+        "email": "karlavdp.info@gmail.com",
+        "address": {
+            "street": "Victor Plains",
+            "city": "Wisokyburgh",
+            "zipcode": "90566-7771"
+        }
+    }
+]

@@ -1,0 +1,73 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - Flour Power Bakery</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="/icons/favicon.ico">
+    <meta name="theme-color" content="#ffffff">
+</head>
+
+<body>
+
+    <nav class="tp-nav">
+        <div class="navpart-01">
+            <img src="icons/better flour power logo.png" height="100%">
+            <ul>
+                <a href="index.html">
+                    <li>Home</li>
+                </a>
+                <a href="#">
+                    <li>Shop</li>
+                </a>
+                <a href="#">
+                    <li>About</li>
+                </a>
+                <a href="contact.html">
+                    <li>Contact</li>
+                </a>
+            </ul>
+        </div>
+        <div class="navpart-02">
+            <a href="#">Log In</a>
+            <img src="icons/cart-shopping-solid-white.png" height="35%">
+        </div>
+    </nav>
+
+    <div class="tp-contact-container">
+        <div class="contact-img">
+
+        </div>
+        <div class="contact-info">
+            <h1 class="tp-contact-title">Vragen? Neem contact met ons op.</h1>
+            <ul id="persons-list"></ul>
+        </div>
+    </div>
+
+    <div class="maps-section">
+        <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d827.7493735696444!2d5.082066827580184!3d51.560066905615834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6be3054754479%3A0x566362947c4eadc9!2sBreexz!5e0!3m2!1snl!2snl!4v1683893881293!5m2!1snl!2snl"
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
+
+
+    <script src="app.js">
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                console.log('App is loader');
+                navigator.serviceWorker.register('sw.js')
+                    .then(() => {
+                        console.log("Service Worker registered");
+                    })
+            })
+        }
+    </script>
+</body>
+
+</html>
