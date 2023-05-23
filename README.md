@@ -15,3 +15,9 @@ Project waar ik een webapp heb gemaakt voor een fictioneel bakkersbedrijf. Het b
 - website/webapp responsive maken (425px Mobile Large)
 ### React tutorial / skiprouter
 Door het volgen van meerdere tutorials heb ik een kleine react webapp samengesteld om de methodiek van react onder de knie te krijgen. De volgende stap is om deze theorie toe te passen toe te passen in mijn eigen react applicatie. 
+
+##Links:
+##Flour Power Bakkery
+- https://i499667.hera.fhict.nl/flourpowerbakkery/
+##React Tutorial
+- https://i499667.hera.fhict.nl/skiprouter/
