@@ -17,6 +17,8 @@ Project waar ik een webapp heb gemaakt voor een fictioneel bakkersbedrijf. Het b
 Door het volgen van meerdere tutorials heb ik een kleine react webapp samengesteld om de methodiek van react onder de knie te krijgen. De volgende stap is om deze theorie toe te passen toe te passen in mijn eigen react applicatie. 
 
 ## Links:
+## API Workshop
+- https://i499667.hera.fhict.nl/apiworkshop/
 ## Flour Power Bakkery
 - https://i499667.hera.fhict.nl/flourpowerbakkery/
 ## React Tutorial
