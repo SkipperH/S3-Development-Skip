@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactexplained/static/css/main.af7567fc.css",
+    "main.js": "/reactexplained/static/js/main.5abe58f3.js",
+    "static/media/close-up-image-programer-working-his-desk-office.jpg": "/reactexplained/static/media/close-up-image-programer-working-his-desk-office.bb45f9d7080827a90059.jpg",
+    "static/media/rear-view-programmer-working-all-night-long.jpg": "/reactexplained/static/media/rear-view-programmer-working-all-night-long.35143c72487ac4b3696b.jpg",
+    "static/media/turned-gray-laptop-computer.jpg": "/reactexplained/static/media/turned-gray-laptop-computer.f3e0dbb3fcc9f31ab5fc.jpg",
+    "index.html": "/reactexplained/index.html",
+    "main.af7567fc.css.map": "/reactexplained/static/css/main.af7567fc.css.map",
+    "main.5abe58f3.js.map": "/reactexplained/static/js/main.5abe58f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af7567fc.css",
+    "static/js/main.5abe58f3.js"
+  ]
+}
