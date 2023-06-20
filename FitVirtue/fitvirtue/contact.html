@@ -1,0 +1,103 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - FitVirtue</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://use.typekit.net/fca6xcp.css">
+
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="/icons/favicon.ico">
+    <meta name="theme-color" content="#ffffff">
+</head>
+
+<body>
+    <main class="tp-dark-main-short"><!--SHORTER MAIN -->
+
+        <!-- NAVIGATION BAR -->
+        <nav class="tp-nav">
+            <a href="index.html"><img src="icons/title.png" height="100%"></a>
+            <div class="nav-menu-items">
+                <a href="index.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="locations.html">Locations</a>
+                <a href="activities.html">Activities</a>
+                <a href="contact.html">Contact</a>
+            </div>
+            <div class="nav-menu-login">
+                <a href="#">Login</a>
+                <p>|</p>
+                <a href="#" id="register-btn">Register</a>
+            </div>
+        </nav>
+
+        <!-- CONTACT FORM LEFT IMAGE RIGHT -->
+
+        <section class="tp-dark-section-left" style="margin-top: 100px;">
+            <div class="tp-text-left">
+                <h2 class="textheader">Got any questions?</h2>
+                <br>
+                <!-- CONTACT FORM -->
+                <form class="input-field">
+                    <div style="display: flex; flex-direction: row;">
+                        <input type="text" placeholder="first name">
+                        <input type="text" placeholder="Last name">
+                    </div>
+                    <input type="text" placeholder="E-mail" class="emailinput">
+                    <textarea id="tp-msg-field" placeholder="Any specifics?"></textarea>
+                </form>
+                <br>
+                <a href="#" class="submit-btn">Submit</a>
+            </div>
+            <div class="tp-img-container">
+                <div class="tp-img" id="kettleball">
+
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- UNIVERSAL FOOTER WITH LINKS -->
+
+    <footer>
+        <div class="socials">
+            <h3>Follow us</h3>
+            <a href="#">Instagram</a>
+            <a href="#">Facebook</a>
+            <a href="#">LinkedIn</a>
+        </div>
+        <div class="footer-pages">
+            <h3>Pages</h3>
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Locations</a>
+            <a href="#">Activities</a>
+        </div>
+        <div class="footer-contact">
+            <h3>Contact us</h3>
+            <a href="#" class="sociallink01">Info@fitvirtue.com</a>
+            <a href="#" class="sociallink02">+31 (0) 13 123 45 67</a>
+            <a href="#" class="sociallink03">Maidstone 23, 1234 AB Tilburg</a>
+        </div>
+    </footer>
+
+
+    <script src="app.js">
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                console.log('App is loader');
+                navigator.serviceWorker.register('sw.js')
+                    .then(() => {
+                        console.log("Service Worker registered");
+                    })
+            })
+        }
+    </script>
+</body>
+
+</html>
