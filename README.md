@@ -15,7 +15,13 @@ Project waar ik een webapp heb gemaakt voor een fictioneel bakkersbedrijf. Het b
 - website/webapp responsive maken (425px Mobile Large)
 ### React tutorial / skiprouter
 Door het volgen van meerdere tutorials heb ik een kleine react webapp samengesteld om de methodiek van react onder de knie te krijgen. De volgende stap is om deze theorie toe te passen toe te passen in mijn eigen react applicatie. 
-
+### FitVirtue
+Onderdeel van de "Personal Project". Een PWA wat begon als een XD prototype en is omgebouwd naar een volledige responsive PWA. De content voor de website is zelf geschreven en de foto's zijn bewerkt om overeen te komen met de rest van het ontwerp, de iteraties hiervoor zijn in te zien in mijn leeswijzer. De applicatie heeft alle functionaliteit van een PWA, denk hierbij aan:
+- Responsive maken (meest effectief op 425px Mobile Large)
+- Bouwen van een layout
+- Installeren van de applicatie
+### React Explained
+Een simpele React applicatie om meer ervaring te krijgen met React. Dit project heeft mij veel inzicht gegeven over de functionaliteit van React en het bouwen van een applicatie met React.
 ## Links:
 ## API Workshop
 - https://i499667.hera.fhict.nl/apiworkshop/
@@ -23,3 +29,7 @@ Door het volgen van meerdere tutorials heb ik een kleine react webapp samengeste
 - https://i499667.hera.fhict.nl/flourpowerbakkery/
 ## React Tutorial
 - https://i499667.hera.fhict.nl/skiprouter/
+## FitVirtue
+- https://i499667.hera.fhict.nl/fitvirtue/
+## React Explained
+- https://i499667.hera.fhict.nl/reactexplained/
