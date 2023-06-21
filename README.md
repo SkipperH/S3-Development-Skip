@@ -6,7 +6,7 @@ Dit is een repository waar al mijn projecten en werkzaamheden voor semester 3 De
 Bestanden zijn onderverdeeld in verschillende mappen met de bijbehorende benaming. 
 <br>
 ### S3 Practice
-Kleine POC's waar ik aan de slag ga met verschillende onderdelen zoals API's en PWA's. Dit zijn geen compleet uitgewerkte producten, meer kleine projecten waar ik mezelf de ruimte geef om verschillende onderdelen te experimenteren. 
+Kleine POC's waar ik aan de slag ga met verschillende onderdelen zoals API's en PWA's. Dit zijn geen compleet uitgewerkte producten, meer kleine projecten waar ik mezelf de ruimte geef om met verschillende onderdelen te experimenteren op basis van gegeven workshops. 
 ### Challange #1
 Project waar ik een webapp heb gemaakt voor een fictioneel bakkersbedrijf. Het bedrijf heeft nog geen vaste huisstijl en website. Het is aan mij om voor deze klant een website/webapp te maken samen met een huisstijl. Taken die bij dit project komen kijken zijn:
 - PWA opstellen (De webapp kan gedownload worden)
