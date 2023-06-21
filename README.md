@@ -21,7 +21,7 @@ Onderdeel van de "Personal Project". Een PWA wat begon als een XD prototype en i
 - Bouwen van een layout
 - Installeren van de applicatie
 ### React Explained
-Een simpele React applicatie om meer ervaring te krijgen met React. Dit project heeft mij veel inzicht gegeven over de functionaliteit van React en het bouwen van een applicatie met React.
+Ook een onderdeel van de "Personal Project". Een simpele React applicatie om meer ervaring te krijgen met React. Dit project heeft mij veel inzicht gegeven over de functionaliteit van React en het bouwen van een applicatie met React.
 ## Links:
 ## API Workshop
 - https://i499667.hera.fhict.nl/apiworkshop/
